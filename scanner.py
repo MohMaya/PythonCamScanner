@@ -6,7 +6,7 @@ import matplotlib.pyplot as plt
 # add image here.
 # We can also use laptop's webcam if the resolution is good enough to capture
 # readable document content
-image = cv2.imread('/home/ayush/Desktop/projects/coding-blocks/test/document-scanner/images/receipt.jpg')
+image = cv2.imread('/home/moh/PycharmProjects/CamScanner/PythonCamScanner/images/receipt.jpg')
 
 # resize image so it can be processed
 # choose optimal dimensions such that important content is not lost
